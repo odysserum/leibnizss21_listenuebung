@@ -22,7 +22,7 @@ ergebnis = mittelwert([2, 4.3, -1, 9])
 print(ergebnis) # Ausgabe: 3.575
 
 
-paar = minmax([8, 3, 10.9, -3, 17, 0])
+paar = minmax([8, 3, 10.9, -3, 17, 0, 1,])
 print(paar) # Ausgabe: (-3, 17)
 
 
