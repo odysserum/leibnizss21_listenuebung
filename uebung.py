@@ -1,4 +1,5 @@
 Hey ihr Schlafschafe!
+Alles fit?
 def summe(liste):
     menge = 0
     for n in liste:
